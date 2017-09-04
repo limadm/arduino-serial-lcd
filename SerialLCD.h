@@ -1,6 +1,6 @@
 /* Serial LCD!
  * Uses 74HC595 shift register to control HD44780 LCDs in 4-bit mode.
- * MIT License © 2017 Daniel M. de Lima
+ * MIT License © 2017 Daniel Lima <danielm@nanohub.tk>
  */
 #pragma once
 
